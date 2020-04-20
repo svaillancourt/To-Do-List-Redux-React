@@ -1,8 +1,8 @@
 import React from 'react'
 import { Image, Reveal } from 'semantic-ui-react'
 
-const stephane = ("../img/selfie.jpg");
-const hidden = ("../img/hidden.png");
+const stephane = require("../img/selfie.jpg");
+const hidden = require("../img/hidden.png");
 
 
 const RevealExampleMoveRight = () => (
